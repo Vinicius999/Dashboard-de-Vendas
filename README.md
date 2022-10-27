@@ -17,10 +17,11 @@
 ## Tecnologias
 
 <p style='margin: 16px 4px 32px;'>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/Power-BI.png" alt="Power BI" width="40" height="40" />
     </a>
 </p>
+
 
 ## Dados
 
@@ -54,35 +55,40 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
 
 #### 1 - Total de Vendas por Ano
 
-<p style="padding: 0px 100px;">
+<p style="margin: 0px 100px;">
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-total-vendas-por-ano.png" alt="total-vendas-por-ano"/>
     </a>
 </p>
 
+
 #### 2 - Custo de entrega do veículo por Fabricante
 
-<p style="padding: 0px 100px;">
+<p style="margin: 0px 100px;">
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-custo-entrega-por-fabricante.png" alt="custo-entrega-por-fabricante"/>
     </a>
 </p>
 
+
 #### 3 - Custo de Mão de Obra por Estado
 
-<p style="padding: 0px 100px;">
+<p style="margin: 0px 100px;">
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/03-custo-mao-de-obra-por-estado.png" alt="custo-mao-de-obra-por-estado"/>
     </a>
 </p>
 
+
 #### 4 - Total de Vendas Geral e Matriz de Vendas
 
-<p style="padding: 0px 100px;">
+<p style="margin: 0px 100px;">
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/04-total-vendas-e-matriz-de-vendas.png" alt="total-vendas-e-matriz-de-vendas"/>
     </a>
 </p>
 
+
 ## Dashboard Final com os Resultados
 
-<p style="padding: 0px 100px;">
+<p style="margin: 0px 0px;">
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/visao-geral-dashboard.png" alt="dashboard"/>
     </a>
 </p>
+
