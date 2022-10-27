@@ -3,14 +3,13 @@
 
 
 <p align="center">Este repositório contém o dashboard referente ao primeiro estudo de caso do curso <strong>Microsoft Power BI para Data Science</strong> da Data Science Academy.<p>
-
 <p align="center">
     <a href="##Tecnologias">Tecnologias</a> |
     <a href="##Dados">Dados</a> |
     <a href="##Objetivos do relatório">Objetivos do relatório</a> |
-    <a href="##Resultados">Resultados</a> |
-    <a href="##Dashboard Final com os Resultados">Dashboard</a>
+    <a href="##Dashboard e Resultados">Dashboard e Resultados</a> 
 </p>
+
 
 <h4 align="center"> &#128679; Projeto &#128640; em construção... &#128679; </h4>
 
@@ -51,7 +50,7 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
 
 **#OBS:** Visualizar o total de vendas por estado e se as vendas estão acima ou abaixo da média.
 
-## Resultados
+## Dashboard e Resultados 
 
 #### 1 - Total de Vendas por Ano
 
@@ -85,7 +84,7 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
 
 
 
-## Dashboard Final com os Resultados
+#### Dashboard de Vendas
 
 <p style="margin: 0px 0px;">
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/visao-geral-dashboard.png" alt="dashboard"/>
