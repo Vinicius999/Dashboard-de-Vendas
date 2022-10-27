@@ -44,7 +44,7 @@
 
 Desenvolver e apresentar análises acerca dos seguintes pontos:
 
-1. Total de Vendas poR Ano
+1. Total de Vendas por Ano
 2. Custo de entrega do veículo por Fabricante
 3. Custo de Mão de Obra por Estado
 4. Total de Vendas Geral e Matriz de Vendas
@@ -55,34 +55,32 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
 
 #### 1 - Total de Vendas por Ano
 
-<p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-total-vendas-por-ano.png" alt="total-vendas-por-ano"  max-width="500px" max-height="300px" width="auto" height="auto"/>
+<p>
+	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-total-vendas-por-ano.png" alt="total-vendas-por-ano"  width="537px" height="299px"/>
 </p>
 
 
 
 #### 2 - Custo de entrega do veículo por Fabricante
 
-<p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-custo-entrega-por-fabricante.png" alt="custo-entrega-por-fabricante" width="500" height="300" />
+<p>
+	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-custo-entrega-por-fabricante.png" alt="custo-entrega-por-fabricante" width="537" height="298" />
 </p>
 
 
 
 #### 3 - Custo de Mão de Obra por Estado
 
-<p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/03-custo-mao-de-obra-por-estado.png" alt="custo-mao-de-obra-por-estado" width="500" height="300" />
-    </a>
+<p>
+	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/03-custo-mao-de-obra-por-estado.png" alt="custo-mao-de-obra-por-estado" width="537" height="300" />
 </p>
 
 
 
 #### 4 - Total de Vendas Geral e Matriz de Vendas
 
-<p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/04-total-vendas-e-matriz-de-vendas.png" alt="total-vendas-e-matriz-de-vendas" width="500" height="300" />
-    </a>
+<p>
+	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/04-total-vendas-e-matriz-de-vendas.png" alt="total-vendas-e-matriz-de-vendas" width="604" height="190" />
 </p>
 
 
