@@ -56,8 +56,7 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
 #### 1 - Total de Vendas por Ano
 
 <p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-total-vendas-por-ano.png" alt="total-vendas-por-ano" width="500" height="300" />
-    </a>
+        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-			total-vendas-por-ano.png" alt="total-vendas-por-ano"  max-width="500px" max-				height="300px" width="auto" height: "auto"/>
 </p>
 
 
@@ -65,8 +64,7 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
 #### 2 - Custo de entrega do veículo por Fabricante
 
 <p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-custo-entrega-por-fabricante.png" alt="custo-entrega-por-fabricante" width="500" height="300" />
-    </a>
+        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-			custo-entrega-por-fabricante.png" alt="custo-entrega-por-fabricante" width="500" 			height="300" />
 </p>
 
 
