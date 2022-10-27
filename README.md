@@ -56,33 +56,37 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
 #### 1 - Total de Vendas por Ano
 
 <p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-total-vendas-por-ano.png" alt="total-vendas-por-ano"/>
+        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-total-vendas-por-ano.png" alt="total-vendas-por-ano" width="500" height="300" />
     </a>
 </p>
+
 
 
 #### 2 - Custo de entrega do veículo por Fabricante
 
 <p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-custo-entrega-por-fabricante.png" alt="custo-entrega-por-fabricante"/>
+        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-custo-entrega-por-fabricante.png" alt="custo-entrega-por-fabricante" width="500" height="300" />
     </a>
 </p>
+
 
 
 #### 3 - Custo de Mão de Obra por Estado
 
 <p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/03-custo-mao-de-obra-por-estado.png" alt="custo-mao-de-obra-por-estado"/>
+        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/03-custo-mao-de-obra-por-estado.png" alt="custo-mao-de-obra-por-estado" width="500" height="300" />
     </a>
 </p>
+
 
 
 #### 4 - Total de Vendas Geral e Matriz de Vendas
 
 <p style="margin: 0px 100px;">
-        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/04-total-vendas-e-matriz-de-vendas.png" alt="total-vendas-e-matriz-de-vendas"/>
+        <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/04-total-vendas-e-matriz-de-vendas.png" alt="total-vendas-e-matriz-de-vendas" width="500" height="300" />
     </a>
 </p>
+
 
 
 ## Dashboard Final com os Resultados
@@ -91,4 +95,3 @@ Desenvolver e apresentar análises acerca dos seguintes pontos:
         <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/visao-geral-dashboard.png" alt="dashboard"/>
     </a>
 </p>
-
